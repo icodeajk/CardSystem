@@ -1,0 +1,50 @@
+@charset "UTF-8";
+table.hovertable {
+font-family: verdana,arial,sans-serif;
+font-size:11px;
+color:#333333;
+border-width: 1px;
+border-color: #999999;
+border-collapse: collapse;
+}
+table.hovertable th {
+background-color:#c3dde0;
+border-width: 1px;
+padding: 8px;
+border-style: solid;
+border-color: #a9c6c9;
+}
+table.hovertable tr {
+background-color:#d4e3e5;
+}
+table.hovertable td {
+border-width: 1px;
+padding: 8px;
+border-style: solid;
+border-color: #a9c6c9;
+}
+table.hovertable caption{
+	margin-bottom:10px;
+	
+	font-size:15px;
+	font-weight:bold;
+}
+select{
+	background:rgba(150,150,150,.2);
+	border-radius:5px;
+}
+div#date{
+	border-radius:5px;
+}
+table{
+	margin:auto;
+	margin-top:80px;
+
+}
+body{
+	background:rgba(150,150,150,.2);
+}
+input{
+	background:rgba(150,150,150,.2);
+	border-radius:5px;
+}
