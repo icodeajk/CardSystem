@@ -2,6 +2,8 @@
 和室友一起做的校园一卡通管理系统，我主要负责前端代码
 利用frameset将页面分成三部分，废了挺大劲将页面用CSS美化了一下（润滑棱角，添加时间，色彩选择，处理弹出的各个执行状态窗口）
 
+有学生，售货员，图书管理员，卡管理员四个角色，每个角色的菜单栏各有不同，通过JSP显示和隐藏菜单栏中不同的选项
+
 ## 这是登陆界面
 ![photo](https://github.com/icodeajk/CardSystem/raw/master/WebContent/image/11.png)
 
